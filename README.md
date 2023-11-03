@@ -148,7 +148,7 @@ For cli use these options can be provided in a JSON file named `.minify.json` li
 }
 ```
 
-**Minify** walking up parent directories to locate and read it’s configuration file `.minify.json`.
+**Minify** walking up parent directories to locate and read its configuration file `.minify.json`.
 
 ## License
 
